@@ -175,6 +175,7 @@ if missing:
     st.warning(f"Faltan columnas recomendadas: {missing}. El simulador funcionará con lo disponible, pero los resultados serán menos precisos.")
 
 # Limpieza simple
+
 def to_num(s):
     try:
         return pd.to_numeric(s)

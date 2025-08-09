@@ -5,75 +5,70 @@
     "yacimiento",
     "deposito",
     "depósito",
-    "proyecto"
+    "proyecto",
+    "Deposito"
   ],
   "Comuna": [
     "comuna",
-    "municipio"
+    "municipio",
+    "Comuna"
   ],
   "Au_gpt": [
     "au_gpt",
     "au (g/t)",
     "oro_gpt",
     "ley_au",
-    "au_g/t",
-    "au_ppm"
+    "Au(g/t)"
   ],
   "Ag_gpt": [
     "ag_gpt",
     "ag (g/t)",
     "plata_gpt",
-    "ag_g/t",
-    "ag_ppm"
+    "Ag(g/t)"
   ],
   "Cu_pct": [
     "cu_pct",
     "cu %",
     "cobre_%",
     "ley_cu",
-    "cu_%"
+    "cu_%",
+    "Cu(g/t)"
   ],
   "As_ppm": [
     "as_ppm",
     "arsenico_ppm",
     "as (ppm)",
-    "as_ppm_total",
-    "arsénico_ppm"
+    "As(g/t)"
   ],
   "S_tot_pct": [
     "s_tot_pct",
     "azufre_%",
     "s%",
     "stot%",
-    "s_total_%"
+    "S Total(%)"
   ],
   "S_sulf_pct": [
     "s_sulf_pct",
     "sulfuro_%",
-    "ssulf%",
-    "s_sulf_%"
+    "ssulf%"
   ],
   "Fe_pct": [
     "fe_pct",
-    "fe_%"
+    "Fe2O3(%)"
   ],
   "Humedad_pct": [
     "humedad_pct",
-    "moisture%",
-    "hum_%"
+    "moisture%"
   ],
   "P80_um": [
     "p80_um",
     "p80 (um)",
-    "granulometria_p80",
-    "p80_µm",
-    "p80_micrones"
+    "granulometria_p80"
   ],
   "Tonelaje_t": [
     "tonelaje_t",
     "toneladas",
     "t",
-    "tonelaje",
-    "ton"
+    "masa (t)"
   ]
 }
