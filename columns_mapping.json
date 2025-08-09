@@ -1,0 +1,79 @@
+{
+  "Nombre": [
+    "nombre",
+    "site",
+    "yacimiento",
+    "deposito",
+    "depósito",
+    "proyecto"
+  ],
+  "Comuna": [
+    "comuna",
+    "municipio"
+  ],
+  "Au_gpt": [
+    "au_gpt",
+    "au (g/t)",
+    "oro_gpt",
+    "ley_au",
+    "au_g/t",
+    "au_ppm"
+  ],
+  "Ag_gpt": [
+    "ag_gpt",
+    "ag (g/t)",
+    "plata_gpt",
+    "ag_g/t",
+    "ag_ppm"
+  ],
+  "Cu_pct": [
+    "cu_pct",
+    "cu %",
+    "cobre_%",
+    "ley_cu",
+    "cu_%"
+  ],
+  "As_ppm": [
+    "as_ppm",
+    "arsenico_ppm",
+    "as (ppm)",
+    "as_ppm_total",
+    "arsénico_ppm"
+  ],
+  "S_tot_pct": [
+    "s_tot_pct",
+    "azufre_%",
+    "s%",
+    "stot%",
+    "s_total_%"
+  ],
+  "S_sulf_pct": [
+    "s_sulf_pct",
+    "sulfuro_%",
+    "ssulf%",
+    "s_sulf_%"
+  ],
+  "Fe_pct": [
+    "fe_pct",
+    "fe_%"
+  ],
+  "Humedad_pct": [
+    "humedad_pct",
+    "moisture%",
+    "hum_%"
+  ],
+  "P80_um": [
+    "p80_um",
+    "p80 (um)",
+    "granulometria_p80",
+    "p80_µm",
+    "p80_micrones"
+  ],
+  "Tonelaje_t": [
+    "tonelaje_t",
+    "toneladas",
+    "t",
+    "tonelaje",
+    "ton"
+  ]
+}
